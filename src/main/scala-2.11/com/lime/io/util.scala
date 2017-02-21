@@ -15,7 +15,7 @@ object io {
 			.option("inferSchema", "false")
 			.option("nullValue", "null")
 			.option("treatEmptyValuesAsNulls", "true")
-			.option("delimiter", ",")
+			.option("delimiter", "|")
 			.option("mode", "FAILFAST")
 			//        .option("quote", null)
 			.load(filePath)

@@ -11,7 +11,7 @@
 [debug] == resolving dependencies for default#spark-lime$sources_2.11;1.0-SNAPSHOT [compile]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41b75710
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5559f109
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -20,7 +20,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-core_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@721a81c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dc0af1e
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-core_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-core_2.11;2.0.0 [compile->runtime]
@@ -28,7 +28,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-core_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-mapred;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-mapred;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@da015db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cb17d32
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-mapred;1.7.7
 [debug] 	found org.apache.avro#avro-mapred;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-mapred;1.7.7 [compile->runtime]
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-mapred;1.7.7 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-ipc;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-ipc;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68dbdee3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c042735
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-ipc;1.7.7
 [debug] 	found org.apache.avro#avro-ipc;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-ipc;1.7.7 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro-ipc;1.7.7 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2859f261
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cb523ca
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.7
 [debug] 	found org.apache.avro#avro;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro;1.7.7 [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.avro#avro;1.7.7 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33d2084b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75690859
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->runtime]
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@183cfe53
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f3acf40
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->runtime]
@@ -68,7 +68,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68f6777a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2aae8306
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -76,7 +76,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14b4f966
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35902948
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.tukaani#xz;1.0 [compile->runtime]
@@ -84,7 +84,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill_2.11;0.8.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.11;0.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e8b645b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@174961c1
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.11;0.8.0
 [debug] 	found com.twitter#chill_2.11;0.8.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill_2.11;0.8.0 [compile->runtime]
@@ -92,7 +92,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill_2.11;0.8.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill-java;0.8.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.8.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74f1d18e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fb8cf6
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.8.0
 [debug] 	found com.twitter#chill-java;0.8.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill-java;0.8.0 [compile->runtime]
@@ -100,7 +100,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#chill-java;0.8.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#kryo-shaded;3.0.3 [compile->default(compile)]
 [info] Resolving com.esotericsoftware#kryo-shaded;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69fba940
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@309fa23
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware#kryo-shaded;3.0.3
 [debug] 	found com.esotericsoftware#kryo-shaded;3.0.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#kryo-shaded;3.0.3 [compile->runtime]
@@ -108,7 +108,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#kryo-shaded;3.0.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#minlog;1.3.0 [compile->default(compile)]
 [info] Resolving com.esotericsoftware#minlog;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70297843
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@499be053
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware#minlog;1.3.0
 [debug] 	found com.esotericsoftware#minlog;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#minlog;1.3.0 [compile->runtime]
@@ -116,7 +116,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.esotericsoftware#minlog;1.3.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.objenesis#objenesis;2.1 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f70bc02
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dfc87da
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;2.1
 [debug] 	found org.objenesis#objenesis;2.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.objenesis#objenesis;2.1 [compile->runtime]
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.objenesis#objenesis;2.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->default(compile)]
 [info] Resolving org.apache.xbean#xbean-asm5-shaded;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67279e99
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a56e3ef
 [debug] sbt-chain: module revision found in cache: org.apache.xbean#xbean-asm5-shaded;4.4
 [debug] 	found org.apache.xbean#xbean-asm5-shaded;4.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->runtime]
@@ -132,7 +132,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d59fdde
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21777faa
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -140,7 +140,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71aafa86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34e6bc79
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -148,7 +148,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bb439b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5011910a
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -156,7 +156,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2748056a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@620524b1
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -164,7 +164,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@458877f5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@379a4707
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -172,7 +172,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d2a19f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dfc0cad
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->log4j#log4j;1.2.17 [compile->runtime]
@@ -180,7 +180,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@101685d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ab23821
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -188,7 +188,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dfcc7d6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48c110ce
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -196,7 +196,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a19c637
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14751a40
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -204,7 +204,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@269f63d8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@459fb96c
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -212,7 +212,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d135469
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a508ed
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -220,7 +220,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70477958
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ddb70b
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -228,7 +228,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c99780d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d7ca11b
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -236,7 +236,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b183eee
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c0a9b3e
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -244,7 +244,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5995fd28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f3be930
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->runtime]
@@ -252,7 +252,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eb6f847
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@224fbab5
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->runtime]
@@ -260,7 +260,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3714dad5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54b060e7
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->runtime]
@@ -268,7 +268,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3322e3d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e4cbec8
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-api;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->runtime]
@@ -276,7 +276,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55fad62c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56cfaacd
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;3.0 [compile->runtime]
@@ -284,7 +284,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ef2387f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3060ac99
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->runtime]
@@ -292,7 +292,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41d25351
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fa7c566
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -300,7 +300,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dee27c3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c92de8a
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -308,7 +308,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ed26cd2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@269cb77e
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->runtime]
@@ -316,7 +316,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44534ec1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f153536
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->runtime]
@@ -324,7 +324,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dc0b5bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2454bf2
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->runtime]
@@ -332,7 +332,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e934131
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e6a62cd
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->runtime]
@@ -340,7 +340,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eeed968
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f55a37f
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->runtime]
@@ -348,7 +348,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18679d6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2174958e
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->runtime]
@@ -356,7 +356,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-launcher_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-launcher_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a55bf77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@be1ce38
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-launcher_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-launcher_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-launcher_2.11;2.0.0 [compile->runtime]
@@ -364,7 +364,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-launcher_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-tags_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-tags_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a675851
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c675462
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-tags_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-tags_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-tags_2.11;2.0.0 [compile->runtime]
@@ -372,7 +372,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-tags_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.6 [compile->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@612f1a71
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@485b88b
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.6
 [debug] 	found org.scalatest#scalatest_2.11;2.2.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.6 [compile->runtime]
@@ -380,7 +380,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2563bdae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67166874
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -388,7 +388,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f1164cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@231ebf4e
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -396,7 +396,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-common_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@801944e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@133de2e7
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-network-common_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-common_2.11;2.0.0 [compile->runtime]
@@ -404,7 +404,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-common_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty-all;4.0.29.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.29.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ad8862e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53e3a9cc
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.29.Final
 [debug] 	found io.netty#netty-all;4.0.29.Final in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty-all;4.0.29.Final [compile->runtime]
@@ -412,7 +412,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty-all;4.0.29.Final [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-shuffle_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d3f461a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@480cf77d
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-shuffle_2.11;2.0.0 [compile->runtime]
@@ -420,7 +420,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-network-shuffle_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2eda6dc2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53c0aeee
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -428,7 +428,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.6.5 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4132eccf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139aa3d2
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.6.5
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.6.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.6.5 [compile->runtime]
@@ -436,7 +436,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-databind;2.6.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.6.5 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33975308
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ec4a250
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.6.5
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.6.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.6.5 [compile->runtime]
@@ -444,7 +444,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-core;2.6.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.6.5 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5793d5d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7569b694
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.6.5
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.6.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.6.5 [compile->runtime]
@@ -452,7 +452,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.core#jackson-annotations;2.6.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-unsafe_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-unsafe_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b8b8aa3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bfe9bfa
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-unsafe_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-unsafe_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-unsafe_2.11;2.0.0 [compile->runtime]
@@ -460,7 +460,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-unsafe_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@526f6470
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67781df2
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -468,7 +468,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1df4ebe7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c98abed
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -476,7 +476,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7efdad93
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b1cd342
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -484,7 +484,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13ea876a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f2fc1ae
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -492,7 +492,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@237ae1ad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bcd1e13
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -500,7 +500,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bd157ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55dfe95f
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -508,7 +508,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.servlet#javax.servlet-api;3.1.0 [compile->default(compile)]
 [info] Resolving javax.servlet#javax.servlet-api;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@af105cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d81eb2d
 [debug] sbt-chain: module revision found in cache: javax.servlet#javax.servlet-api;3.1.0
 [debug] 	found javax.servlet#javax.servlet-api;3.1.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.servlet#javax.servlet-api;3.1.0 [compile->runtime]
@@ -516,7 +516,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.servlet#javax.servlet-api;3.1.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79cdf57
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22fa3d0f
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.3.2 [compile->runtime]
@@ -524,7 +524,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math3;3.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27c85809
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b7f6095
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1
 [debug] 	found org.apache.commons#commons-math3;3.4.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math3;3.4.1 [compile->runtime]
@@ -532,7 +532,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.commons#commons-math3;3.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ddcdb3d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ed44d67
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.16
 [debug] 	found org.slf4j#slf4j-api;1.7.16 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.16 [compile->runtime]
@@ -540,7 +540,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-api;1.7.16 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@145e7c5c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27ca7276
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.16
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.16 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.16 [compile->runtime]
@@ -548,7 +548,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jul-to-slf4j;1.7.16 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f4e44ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43c26993
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.16
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.16 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.16 [compile->runtime]
@@ -556,7 +556,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#jcl-over-slf4j;1.7.16 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-log4j12;1.7.16 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a40cde0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b9a664
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.16
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.16 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-log4j12;1.7.16 [compile->runtime]
@@ -564,7 +564,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.slf4j#slf4j-log4j12;1.7.16 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.ning#compress-lzf;1.0.3 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a41d3b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a272417
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.3
 [debug] 	found com.ning#compress-lzf;1.0.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.ning#compress-lzf;1.0.3 [compile->runtime]
@@ -572,7 +572,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.ning#compress-lzf;1.0.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.xerial.snappy#snappy-java;1.1.2.4 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57db8fd1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e0212ac
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.2.4
 [debug] 	found org.xerial.snappy#snappy-java;1.1.2.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.xerial.snappy#snappy-java;1.1.2.4 [compile->runtime]
@@ -580,7 +580,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.xerial.snappy#snappy-java;1.1.2.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.jpountz.lz4#lz4;1.3.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7025c0ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c364a8
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.3.0
 [debug] 	found net.jpountz.lz4#lz4;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.jpountz.lz4#lz4;1.3.0 [compile->runtime]
@@ -588,7 +588,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.jpountz.lz4#lz4;1.3.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.5.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@509ba52e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@109a8428
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.5.11
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.5.11 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->runtime]
@@ -596,7 +596,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23f22c4f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e3e4cc8
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-net#commons-net;2.2 [compile->runtime]
@@ -604,7 +604,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-jackson_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e87cd6b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a06903
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.11;3.2.11
 [debug] 	found org.json4s#json4s-jackson_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-jackson_2.11;3.2.11 [compile->runtime]
@@ -612,7 +612,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-jackson_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-core_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fd8c5ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7797597c
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.11
 [debug] 	found org.json4s#json4s-core_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-core_2.11;3.2.11 [compile->runtime]
@@ -620,7 +620,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-core_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-ast_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10ffd20d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41a6d9e
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.11
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-ast_2.11;3.2.11 [compile->runtime]
@@ -628,7 +628,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.json4s#json4s-ast_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f01a691
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d5c629d
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -636,7 +636,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4966f2e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@429fd672
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -644,7 +644,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7abae7bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@675d592a
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -652,7 +652,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-client;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a3ef2b8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bd2365c
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-client;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-client;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->runtime]
@@ -660,7 +660,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-client;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->default(compile)]
 [info] Resolving javax.ws.rs#javax.ws.rs-api;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b083855
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63090615
 [debug] sbt-chain: module revision found in cache: javax.ws.rs#javax.ws.rs-api;2.0.1
 [debug] 	found javax.ws.rs#javax.ws.rs-api;2.0.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->runtime]
@@ -668,7 +668,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.ws.rs#javax.ws.rs-api;2.0.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-common;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d269191
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4346e11
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-common;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-common;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->runtime]
@@ -676,7 +676,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-common;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.annotation#javax.annotation-api;1.2 [compile->default(compile)]
 [info] Resolving javax.annotation#javax.annotation-api;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41f43404
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28486d52
 [debug] sbt-chain: module revision found in cache: javax.annotation#javax.annotation-api;1.2
 [debug] 	found javax.annotation#javax.annotation-api;1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.annotation#javax.annotation-api;1.2 [compile->runtime]
@@ -684,7 +684,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.annotation#javax.annotation-api;1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22cb0c3c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bc921f
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2
 [debug] 	found org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->runtime]
@@ -692,7 +692,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.bundles.repackaged#jersey-guava;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-api;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24746a75
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4564dd2e
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-api;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-api;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->runtime]
@@ -700,7 +700,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-api;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-utils;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b1bbb6e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c0ff017
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-utils;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-utils;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->runtime]
@@ -708,7 +708,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-utils;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cfe2e79
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6339153e
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34
 [debug] 	found org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->runtime]
@@ -716,7 +716,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#aopalliance-repackaged;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2.external#javax.inject;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e14cf6c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bb892f6
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2.external#javax.inject;2.4.0-b34
 [debug] 	found org.glassfish.hk2.external#javax.inject;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->runtime]
@@ -724,7 +724,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2.external#javax.inject;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#hk2-locator;2.4.0-b34 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@179bc7c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f0c4baf
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#hk2-locator;2.4.0-b34
 [debug] 	found org.glassfish.hk2#hk2-locator;2.4.0-b34 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->runtime]
@@ -732,7 +732,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#hk2-locator;2.4.0-b34 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.18.1-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.18.1-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@184316a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49e8bdff
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.18.1-GA
 [debug] 	found org.javassist#javassist;3.18.1-GA in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.18.1-GA [compile->runtime]
@@ -740,7 +740,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.javassist#javassist;3.18.1-GA [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->default(compile)]
 [info] Resolving org.glassfish.hk2#osgi-resource-locator;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52b58337
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bc07e0e
 [debug] sbt-chain: module revision found in cache: org.glassfish.hk2#osgi-resource-locator;1.0.1
 [debug] 	found org.glassfish.hk2#osgi-resource-locator;1.0.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->runtime]
@@ -748,7 +748,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.hk2#osgi-resource-locator;1.0.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.core#jersey-server;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42df69a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f622a8b
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.core#jersey-server;2.22.2
 [debug] 	found org.glassfish.jersey.core#jersey-server;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->runtime]
@@ -756,7 +756,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.core#jersey-server;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66ef8761
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47d636a1
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.media#jersey-media-jaxb;2.22.2
 [debug] 	found org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->runtime]
@@ -764,7 +764,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.media#jersey-media-jaxb;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.validation#validation-api;1.1.0.Final [compile->default(compile)]
 [info] Resolving javax.validation#validation-api;1.1.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2890de2c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@761b7f73
 [debug] sbt-chain: module revision found in cache: javax.validation#validation-api;1.1.0.Final
 [debug] 	found javax.validation#validation-api;1.1.0.Final in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.validation#validation-api;1.1.0.Final [compile->runtime]
@@ -772,7 +772,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.validation#validation-api;1.1.0.Final [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@423f638f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a806911
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.containers#jersey-container-servlet;2.22.2
 [debug] 	found org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->runtime]
@@ -780,7 +780,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->default(compile)]
 [info] Resolving org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab81888
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63d5522e
 [debug] sbt-chain: module revision found in cache: org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2
 [debug] 	found org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->runtime]
@@ -788,7 +788,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.glassfish.jersey.containers#jersey-container-servlet-core;2.22.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.mesos#mesos;0.21.1 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ac2380f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a4ce5df
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.1
 [debug] 	found org.apache.mesos#mesos;0.21.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.mesos#mesos;0.21.1 [compile->runtime]
@@ -796,7 +796,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.mesos#mesos;0.21.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60ff456e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7273d00a
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -804,7 +804,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@700b2f3e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23b2e038
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -812,7 +812,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-core;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7de5eca3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3406967
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-core;3.1.2 [compile->runtime]
@@ -820,7 +820,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-core;3.1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f733471
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64090ab8
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->runtime]
@@ -828,7 +828,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-json;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b57d73
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e3f779
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-json;3.1.2 [compile->runtime]
@@ -836,7 +836,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-json;3.1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fe80e33
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29975617
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->runtime]
@@ -844,7 +844,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ba4b227
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d6a7bae
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5 [compile->runtime]
@@ -852,7 +852,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79ede035
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@204c213d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5
 [debug] 	found com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5 [compile->runtime]
@@ -860,7 +860,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fe046c0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d5a24a9
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -868,7 +868,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12d98446
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1caefa24
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->oro#oro;2.0.8 [compile->runtime]
@@ -876,7 +876,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.razorvine#pyrolite;4.9 [compile->default(compile)]
 [info] Resolving net.razorvine#pyrolite;4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c79a9a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20d2ca80
 [debug] sbt-chain: module revision found in cache: net.razorvine#pyrolite;4.9
 [debug] 	found net.razorvine#pyrolite;4.9 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.razorvine#pyrolite;4.9 [compile->runtime]
@@ -884,7 +884,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.razorvine#pyrolite;4.9 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.py4j#py4j;0.10.1 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.10.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@96dcde9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50bcb704
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.10.1
 [debug] 	found net.sf.py4j#py4j;0.10.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.py4j#py4j;0.10.1 [compile->runtime]
@@ -892,7 +892,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.py4j#py4j;0.10.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13fb0688
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75e4ea42
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-mllib_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib_2.11;2.0.0 [compile->runtime]
@@ -900,7 +900,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-streaming_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53545d5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f3f71e0
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-streaming_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-streaming_2.11;2.0.0 [compile->runtime]
@@ -908,7 +908,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-streaming_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sql_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@210ee0fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44c0b0b8
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-sql_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sql_2.11;2.0.0 [compile->runtime]
@@ -916,7 +916,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sql_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.univocity#univocity-parsers;2.1.1 [compile->default(compile)]
 [info] Resolving com.univocity#univocity-parsers;2.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41f2bc0a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@459be36c
 [debug] sbt-chain: module revision found in cache: com.univocity#univocity-parsers;2.1.1
 [debug] 	found com.univocity#univocity-parsers;2.1.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.univocity#univocity-parsers;2.1.1 [compile->runtime]
@@ -924,7 +924,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.univocity#univocity-parsers;2.1.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sketch_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sketch_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@303c3dba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e30268
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sketch_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-sketch_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sketch_2.11;2.0.0 [compile->runtime]
@@ -932,7 +932,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-sketch_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-catalyst_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34cb554f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11e4c027
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-catalyst_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-catalyst_2.11;2.0.0 [compile->runtime]
@@ -940,7 +940,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-catalyst_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b7c11e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51792c7d
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.8
 [debug] 	found org.scala-lang#scala-reflect;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-reflect;2.11.8
@@ -949,7 +949,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang#scala-reflect;2.11.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#janino;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#janino;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f518fd1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7101206e
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#janino;2.7.8
 [debug] 	found org.codehaus.janino#janino;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#janino;2.7.8 [compile->runtime]
@@ -957,7 +957,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#janino;2.7.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#commons-compiler;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#commons-compiler;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@705b7c26
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2aab1a71
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;2.7.8
 [debug] 	found org.codehaus.janino#commons-compiler;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#commons-compiler;2.7.8 [compile->runtime]
@@ -965,7 +965,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.codehaus.janino#commons-compiler;2.7.8 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr4-runtime;4.5.3 [compile->default(compile)]
 [info] Resolving org.antlr#antlr4-runtime;4.5.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b5300bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d7e38e9
 [debug] sbt-chain: module revision found in cache: org.antlr#antlr4-runtime;4.5.3
 [debug] 	found org.antlr#antlr4-runtime;4.5.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr4-runtime;4.5.3 [compile->runtime]
@@ -973,7 +973,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr4-runtime;4.5.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@254ac1e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10503f36
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime]
@@ -981,7 +981,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-column;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-column;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77df3b92
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a6375e4
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-column;1.7.0
 [debug] 	found org.apache.parquet#parquet-column;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-column;1.7.0 [compile->runtime]
@@ -989,7 +989,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-column;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-common;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-common;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ed3b887
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71c59c82
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-common;1.7.0
 [debug] 	found org.apache.parquet#parquet-common;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-common;1.7.0 [compile->runtime]
@@ -997,7 +997,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-common;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-encoding;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-encoding;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e60dd25
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@782a0523
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-encoding;1.7.0
 [debug] 	found org.apache.parquet#parquet-encoding;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-encoding;1.7.0 [compile->runtime]
@@ -1005,7 +1005,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-encoding;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-generator;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-generator;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11a3a25d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4741e901
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-generator;1.7.0
 [debug] 	found org.apache.parquet#parquet-generator;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-generator;1.7.0 [compile->runtime]
@@ -1013,7 +1013,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-generator;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-hadoop;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-hadoop;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c0b2881
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30fd66cd
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-hadoop;1.7.0
 [debug] 	found org.apache.parquet#parquet-hadoop;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-hadoop;1.7.0 [compile->runtime]
@@ -1021,7 +1021,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-hadoop;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-format;2.3.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-format;2.3.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a3da6b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e9961d1
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-format;2.3.0-incubating
 [debug] 	found org.apache.parquet#parquet-format;2.3.0-incubating in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-format;2.3.0-incubating [compile->runtime]
@@ -1029,7 +1029,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-format;2.3.0-incubating [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-jackson;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-jackson;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c94a85d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@156f6303
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-jackson;1.7.0
 [debug] 	found org.apache.parquet#parquet-jackson;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-jackson;1.7.0 [compile->runtime]
@@ -1037,7 +1037,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.parquet#parquet-jackson;1.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-graphx_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ac0278e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6feb64e
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-graphx_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-graphx_2.11;2.0.0 [compile->runtime]
@@ -1045,7 +1045,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-graphx_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49615c3e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f1fd444
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1053,7 +1053,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib-local_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib-local_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8205604
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14dd639
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib-local_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-mllib-local_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib-local_2.11;2.0.0 [compile->runtime]
@@ -1061,7 +1061,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-mllib-local_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c9f3dff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fffeb59
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze_2.11;0.11.2 [compile->runtime]
@@ -1069,7 +1069,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f9003f8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@740e6639
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->runtime]
@@ -1077,7 +1077,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2031a7be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ce02016
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1085,7 +1085,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5af367f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a351657
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1093,7 +1093,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47f9fbc9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@218a710a
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -1101,7 +1101,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@564627a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20481280
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -1109,7 +1109,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-model;1.2.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-model;1.2.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a6fe63b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c6c0a5d
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-model;1.2.15
 [debug] 	found org.jpmml#pmml-model;1.2.15 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-model;1.2.15 [compile->runtime]
@@ -1117,7 +1117,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-model;1.2.15 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-schema;1.2.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-schema;1.2.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67acb971
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c00c3f3
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-schema;1.2.15
 [debug] 	found org.jpmml#pmml-schema;1.2.15 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-schema;1.2.15 [compile->runtime]
@@ -1125,7 +1125,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jpmml#pmml-schema;1.2.15 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-hive_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-hive_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d7ab4b3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13b2a60f
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-hive_2.11;2.0.0
 [debug] 	found org.apache.spark#spark-hive_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-hive_2.11;2.0.0 [compile->runtime]
@@ -1133,7 +1133,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.spark#spark-hive_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-hadoop-bundle;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@799a52a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6aef90ab
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-hadoop-bundle;1.6.0
 [debug] 	found com.twitter#parquet-hadoop-bundle;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->runtime]
@@ -1141,7 +1141,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-exec;1.2.1.spark2 [compile->default(compile)]
 [info] Resolving org.spark-project.hive#hive-exec;1.2.1.spark2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d016d28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a6bb981
 [debug] sbt-chain: module revision found in cache: org.spark-project.hive#hive-exec;1.2.1.spark2
 [debug] 	found org.spark-project.hive#hive-exec;1.2.1.spark2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-exec;1.2.1.spark2 [compile->runtime]
@@ -1149,7 +1149,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-exec;1.2.1.spark2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@82037d5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b2f160
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [compile->runtime]
@@ -1157,7 +1157,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-lang#commons-lang;2.6 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34936d6c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c9fdaa5
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.6
 [debug] 	found commons-lang#commons-lang;2.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-lang#commons-lang;2.6 [compile->runtime]
@@ -1165,7 +1165,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-lang#commons-lang;2.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javolution#javolution;5.5.1 [compile->default(compile)]
 [info] Resolving javolution#javolution;5.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@575896fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77fc8491
 [debug] sbt-chain: module revision found in cache: javolution#javolution;5.5.1
 [debug] 	found javolution#javolution;5.5.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javolution#javolution;5.5.1 [compile->runtime]
@@ -1173,7 +1173,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javolution#javolution;5.5.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr-runtime;3.4 [compile->default(compile)]
 [info] Resolving org.antlr#antlr-runtime;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63a6371a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf560c8
 [debug] sbt-chain: module revision found in cache: org.antlr#antlr-runtime;3.4
 [debug] 	found org.antlr#antlr-runtime;3.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr-runtime;3.4 [compile->runtime]
@@ -1181,7 +1181,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#antlr-runtime;3.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#stringtemplate;3.2.1 [compile->default(compile)]
 [info] Resolving org.antlr#stringtemplate;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ea3a875
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@320c619a
 [debug] sbt-chain: module revision found in cache: org.antlr#stringtemplate;3.2.1
 [debug] 	found org.antlr#stringtemplate;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#stringtemplate;3.2.1 [compile->runtime]
@@ -1189,7 +1189,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#stringtemplate;3.2.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#ST4;4.0.4 [compile->default(compile)]
 [info] Resolving org.antlr#ST4;4.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73b5bef9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44ef760b
 [debug] sbt-chain: module revision found in cache: org.antlr#ST4;4.0.4
 [debug] 	found org.antlr#ST4;4.0.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#ST4;4.0.4 [compile->runtime]
@@ -1197,7 +1197,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.antlr#ST4;4.0.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jodd#jodd-core;3.5.2 [compile->default(compile)]
 [info] Resolving org.jodd#jodd-core;3.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@436969ec
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a1baf79
 [debug] sbt-chain: module revision found in cache: org.jodd#jodd-core;3.5.2
 [debug] 	found org.jodd#jodd-core;3.5.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jodd#jodd-core;3.5.2 [compile->runtime]
@@ -1205,7 +1205,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.jodd#jodd-core;3.5.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-core;3.2.10 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-core;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bc66694
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@485b6d49
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-core;3.2.10
 [debug] 	found org.datanucleus#datanucleus-core;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-core;3.2.10 [compile->runtime]
@@ -1213,7 +1213,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-core;3.2.10 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-avatica;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ed70c40
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2700210e
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-avatica;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-avatica;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->runtime]
@@ -1221,7 +1221,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->default(compile)]
 [info] Resolving com.googlecode.javaewah#JavaEWAH;0.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14add23b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a83f921
 [debug] sbt-chain: module revision found in cache: com.googlecode.javaewah#JavaEWAH;0.3.2
 [debug] 	found com.googlecode.javaewah#JavaEWAH;0.3.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->runtime]
@@ -1229,7 +1229,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.iq80.snappy#snappy;0.2 [compile->default(compile)]
 [info] Resolving org.iq80.snappy#snappy;0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c54cba1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19dd807e
 [debug] sbt-chain: module revision found in cache: org.iq80.snappy#snappy;0.2
 [debug] 	found org.iq80.snappy#snappy;0.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.iq80.snappy#snappy;0.2 [compile->runtime]
@@ -1237,7 +1237,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.iq80.snappy#snappy;0.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->jline#jline;2.12 [compile->default(compile)]
 [info] Resolving jline#jline;2.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28448a0e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6322b4fb
 [debug] sbt-chain: module revision found in cache: jline#jline;2.12
 [debug] 	found jline#jline;2.12 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->jline#jline;2.12 [compile->runtime]
@@ -1245,7 +1245,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->jline#jline;2.12 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-metastore;1.2.1.spark2 [compile->default(compile)]
 [info] Resolving org.spark-project.hive#hive-metastore;1.2.1.spark2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5567544c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@467ca5fc
 [debug] sbt-chain: module revision found in cache: org.spark-project.hive#hive-metastore;1.2.1.spark2
 [debug] 	found org.spark-project.hive#hive-metastore;1.2.1.spark2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-metastore;1.2.1.spark2 [compile->runtime]
@@ -1253,7 +1253,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spark-project.hive#hive-metastore;1.2.1.spark2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->default(compile)]
 [info] Resolving com.jolbox#bonecp;0.8.0.RELEASE ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@604554b0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@559c951c
 [debug] sbt-chain: module revision found in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	found com.jolbox#bonecp;0.8.0.RELEASE in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->runtime]
@@ -1261,7 +1261,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.jolbox#bonecp;0.8.0.RELEASE [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-api-jdo;3.2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dbaff24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b4fa828
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-api-jdo;3.2.6
 [debug] 	found org.datanucleus#datanucleus-api-jdo;3.2.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->runtime]
@@ -1269,7 +1269,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-rdbms;3.2.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1375c42b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139923e7
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-rdbms;3.2.9
 [debug] 	found org.datanucleus#datanucleus-rdbms;3.2.9 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->runtime]
@@ -1277,7 +1277,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-pool#commons-pool;1.5.4 [compile->default(compile)]
 [info] Resolving commons-pool#commons-pool;1.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@694b1cfd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f1bdced
 [debug] sbt-chain: module revision found in cache: commons-pool#commons-pool;1.5.4
 [debug] 	found commons-pool#commons-pool;1.5.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-pool#commons-pool;1.5.4 [compile->runtime]
@@ -1285,7 +1285,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-pool#commons-pool;1.5.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-dbcp#commons-dbcp;1.4 [compile->default(compile)]
 [info] Resolving commons-dbcp#commons-dbcp;1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57e6c085
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39c56f21
 [debug] sbt-chain: module revision found in cache: commons-dbcp#commons-dbcp;1.4
 [debug] 	found commons-dbcp#commons-dbcp;1.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-dbcp#commons-dbcp;1.4 [compile->runtime]
@@ -1293,7 +1293,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-dbcp#commons-dbcp;1.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.jdo#jdo-api;3.0.1 [compile->default(compile)]
 [info] Resolving javax.jdo#jdo-api;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c4754a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61d4c9ab
 [debug] sbt-chain: module revision found in cache: javax.jdo#jdo-api;3.0.1
 [debug] 	found javax.jdo#jdo-api;3.0.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.jdo#jdo-api;3.0.1 [compile->runtime]
@@ -1301,7 +1301,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.jdo#jdo-api;3.0.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@565a6c1c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b2768
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->runtime]
@@ -1309,7 +1309,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-core;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-core;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70521857
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f8b8ed3
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-core;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-core;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-core;1.2.0-incubating [compile->runtime]
@@ -1317,7 +1317,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-core;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-linq4j;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35fa0be3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30dffbce
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-linq4j;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-linq4j;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->runtime]
@@ -1325,7 +1325,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.hydromatic#eigenbase-properties;1.1.5 [compile->default(compile)]
 [info] Resolving net.hydromatic#eigenbase-properties;1.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@154a6749
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33268cbe
 [debug] sbt-chain: module revision found in cache: net.hydromatic#eigenbase-properties;1.1.5
 [debug] 	found net.hydromatic#eigenbase-properties;1.1.5 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.hydromatic#eigenbase-properties;1.1.5 [compile->runtime]
@@ -1333,7 +1333,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->net.hydromatic#eigenbase-properties;1.1.5 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13e7eede
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53badf74
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	found org.apache.httpcomponents#httpclient;4.5.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
@@ -1341,7 +1341,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72f8153f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4be96b05
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.4.4
 [debug] 	found org.apache.httpcomponents#httpcore;4.4.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
@@ -1349,7 +1349,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.2 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48be009b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3da7f5e
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.2
 [debug] 	found commons-logging#commons-logging;1.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.2 [compile->runtime]
@@ -1357,7 +1357,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->commons-logging#commons-logging;1.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.9.3 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d3f61a2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75bf67ba
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.3
 [debug] 	found joda-time#joda-time;2.9.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.9.3 [compile->runtime]
@@ -1365,7 +1365,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->joda-time#joda-time;2.9.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-spark_2.11;0.3.6 [compile->default(compile)]
 [info] Resolving org.vegas-viz#vegas-spark_2.11;0.3.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@796250df
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@557da14a
 [debug] sbt-chain: module revision found in cache: org.vegas-viz#vegas-spark_2.11;0.3.6
 [debug] 	found org.vegas-viz#vegas-spark_2.11;0.3.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-spark_2.11;0.3.6 [compile->runtime]
@@ -1373,7 +1373,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-spark_2.11;0.3.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas_2.11;0.3.6 [compile->default(compile)]
 [info] Resolving org.vegas-viz#vegas_2.11;0.3.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76dec249
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f009833
 [debug] sbt-chain: module revision found in cache: org.vegas-viz#vegas_2.11;0.3.6
 [debug] 	found org.vegas-viz#vegas_2.11;0.3.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas_2.11;0.3.6 [compile->runtime]
@@ -1381,7 +1381,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas_2.11;0.3.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-macros_2.11;0.3.6 [compile->default(compile)]
 [info] Resolving org.vegas-viz#vegas-macros_2.11;0.3.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16041a70
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69fa08a5
 [debug] sbt-chain: module revision found in cache: org.vegas-viz#vegas-macros_2.11;0.3.6
 [debug] 	found org.vegas-viz#vegas-macros_2.11;0.3.6 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-macros_2.11;0.3.6 [compile->runtime]
@@ -1389,7 +1389,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.vegas-viz#vegas-macros_2.11;0.3.6 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#macro-compat_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving org.typelevel#macro-compat_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63ae7e22
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c2b47df
 [debug] sbt-chain: module revision found in cache: org.typelevel#macro-compat_2.11;1.1.1
 [debug] 	found org.typelevel#macro-compat_2.11;1.1.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#macro-compat_2.11;1.1.1 [compile->runtime]
@@ -1397,7 +1397,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#macro-compat_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-core_2.11;1.1.0 [compile->default(compile)]
 [info] Resolving com.github.julien-truffaut#monocle-core_2.11;1.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51ee0db5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57b3ba61
 [debug] sbt-chain: module revision found in cache: com.github.julien-truffaut#monocle-core_2.11;1.1.0
 [debug] 	found com.github.julien-truffaut#monocle-core_2.11;1.1.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-core_2.11;1.1.0 [compile->runtime]
@@ -1405,7 +1405,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-core_2.11;1.1.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalaz#scalaz-core_2.11;7.1.1 [compile->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42cbc747
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ab36fc9
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.1.1
 [debug] 	found org.scalaz#scalaz-core_2.11;7.1.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalaz#scalaz-core_2.11;7.1.1 [compile->runtime]
@@ -1413,7 +1413,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalaz#scalaz-core_2.11;7.1.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d12d66b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bc5a479
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->runtime]
@@ -1421,7 +1421,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-core_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving io.circe#circe-core_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d127c48
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24ca25d8
 [debug] sbt-chain: module revision found in cache: io.circe#circe-core_2.11;0.4.1
 [debug] 	found io.circe#circe-core_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] io.circe#circe-core_2.11;0.4.1
@@ -1430,7 +1430,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-core_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-numbers_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving io.circe#circe-numbers_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f14eba2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b4ab0e
 [debug] sbt-chain: module revision found in cache: io.circe#circe-numbers_2.11;0.4.1
 [debug] 	found io.circe#circe-numbers_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] io.circe#circe-numbers_2.11;0.4.1
@@ -1439,7 +1439,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-numbers_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#cats-core_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving org.typelevel#cats-core_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fae2d10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65c254a0
 [debug] sbt-chain: module revision found in cache: org.typelevel#cats-core_2.11;0.4.1
 [debug] 	found org.typelevel#cats-core_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] org.typelevel#cats-core_2.11;0.4.1
@@ -1448,7 +1448,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#cats-core_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#cats-macros_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving org.typelevel#cats-macros_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fa6bfe2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75aae829
 [debug] sbt-chain: module revision found in cache: org.typelevel#cats-macros_2.11;0.4.1
 [debug] 	found org.typelevel#cats-macros_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] org.typelevel#cats-macros_2.11;0.4.1
@@ -1457,7 +1457,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#cats-macros_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.mpilquist#simulacrum_2.11;0.7.0 [compile->default(compile)]
 [info] Resolving com.github.mpilquist#simulacrum_2.11;0.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9ae1578
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e9c9ea4
 [debug] sbt-chain: module revision found in cache: com.github.mpilquist#simulacrum_2.11;0.7.0
 [debug] 	found com.github.mpilquist#simulacrum_2.11;0.7.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.mpilquist#simulacrum_2.11;0.7.0 [compile->runtime]
@@ -1465,7 +1465,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.mpilquist#simulacrum_2.11;0.7.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#algebra_2.11;0.3.1 [compile->default(compile)]
 [info] Resolving org.spire-math#algebra_2.11;0.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62f9950f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@647d43b3
 [debug] sbt-chain: module revision found in cache: org.spire-math#algebra_2.11;0.3.1
 [debug] 	found org.spire-math#algebra_2.11;0.3.1 in sbt-chain
 [debug] 	[0.3.1] org.spire-math#algebra_2.11;0.3.1
@@ -1474,7 +1474,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#algebra_2.11;0.3.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#algebra-std_2.11;0.3.1 [compile->default(compile)]
 [info] Resolving org.spire-math#algebra-std_2.11;0.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6204707f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a4a6cfd
 [debug] sbt-chain: module revision found in cache: org.spire-math#algebra-std_2.11;0.3.1
 [debug] 	found org.spire-math#algebra-std_2.11;0.3.1 in sbt-chain
 [debug] 	[0.3.1] org.spire-math#algebra-std_2.11;0.3.1
@@ -1483,7 +1483,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#algebra-std_2.11;0.3.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#machinist_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving org.typelevel#machinist_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a6b58f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d6b03e0
 [debug] sbt-chain: module revision found in cache: org.typelevel#machinist_2.11;0.4.1
 [debug] 	found org.typelevel#machinist_2.11;0.4.1 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#machinist_2.11;0.4.1 [compile->runtime]
@@ -1491,7 +1491,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.typelevel#machinist_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-generic_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving io.circe#circe-generic_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a99d45f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45548106
 [debug] sbt-chain: module revision found in cache: io.circe#circe-generic_2.11;0.4.1
 [debug] 	found io.circe#circe-generic_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] io.circe#circe-generic_2.11;0.4.1
@@ -1500,7 +1500,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-generic_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.chuusai#shapeless_2.11;2.3.0 [compile->default(compile)]
 [info] Resolving com.chuusai#shapeless_2.11;2.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dc44f67
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c2d2a54
 [debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.11;2.3.0
 [debug] 	found com.chuusai#shapeless_2.11;2.3.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.chuusai#shapeless_2.11;2.3.0 [compile->runtime]
@@ -1508,7 +1508,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.chuusai#shapeless_2.11;2.3.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-parser_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving io.circe#circe-parser_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67691f6e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c2510cb
 [debug] sbt-chain: module revision found in cache: io.circe#circe-parser_2.11;0.4.1
 [debug] 	found io.circe#circe-parser_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] io.circe#circe-parser_2.11;0.4.1
@@ -1517,7 +1517,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-parser_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-jawn_2.11;0.4.1 [compile->default(compile)]
 [info] Resolving io.circe#circe-jawn_2.11;0.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b255e1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf0c6dc
 [debug] sbt-chain: module revision found in cache: io.circe#circe-jawn_2.11;0.4.1
 [debug] 	found io.circe#circe-jawn_2.11;0.4.1 in sbt-chain
 [debug] 	[0.4.1] io.circe#circe-jawn_2.11;0.4.1
@@ -1526,7 +1526,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->io.circe#circe-jawn_2.11;0.4.1 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#jawn-parser_2.11;0.8.4 [compile->default(compile)]
 [info] Resolving org.spire-math#jawn-parser_2.11;0.8.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8c9fc48
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ef11090
 [debug] sbt-chain: module revision found in cache: org.spire-math#jawn-parser_2.11;0.8.4
 [debug] 	found org.spire-math#jawn-parser_2.11;0.8.4 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#jawn-parser_2.11;0.8.4 [compile->runtime]
@@ -1534,7 +1534,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.spire-math#jawn-parser_2.11;0.8.4 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-macro_2.11;1.1.0 [compile->default(compile)]
 [info] Resolving com.github.julien-truffaut#monocle-macro_2.11;1.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74db3d97
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b43f060
 [debug] sbt-chain: module revision found in cache: com.github.julien-truffaut#monocle-macro_2.11;1.1.0
 [debug] 	found com.github.julien-truffaut#monocle-macro_2.11;1.1.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-macro_2.11;1.1.0 [compile->runtime]
@@ -1542,7 +1542,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->com.github.julien-truffaut#monocle-macro_2.11;1.1.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalafx#scalafx_2.11;8.0.92-R10 [compile->default(compile)]
 [info] Resolving org.scalafx#scalafx_2.11;8.0.92-R10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77b70fe2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@da07403
 [debug] sbt-chain: module revision found in cache: org.scalafx#scalafx_2.11;8.0.92-R10
 [debug] 	found org.scalafx#scalafx_2.11;8.0.92-R10 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalafx#scalafx_2.11;8.0.92-R10 [compile->runtime]
@@ -1550,7 +1550,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.scalafx#scalafx_2.11;8.0.92-R10 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega-lite;1.2.0 [compile->default(compile)]
 [info] Resolving org.webjars.bower#vega-lite;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f77bef4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a3a901e
 [debug] sbt-chain: module revision found in cache: org.webjars.bower#vega-lite;1.2.0
 [debug] 	found org.webjars.bower#vega-lite;1.2.0 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega-lite;1.2.0 [compile->runtime]
@@ -1558,7 +1558,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega-lite;1.2.0 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega;2.6.3 [compile->default(compile)]
 [info] Resolving org.webjars.bower#vega;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17600aa3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53ce588
 [debug] sbt-chain: module revision found in cache: org.webjars.bower#vega;2.6.3
 [debug] 	found org.webjars.bower#vega;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega;2.6.3 [compile->runtime]
@@ -1566,7 +1566,7 @@
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#vega;2.6.3 [compile->master]
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#d3;3.5.17 [compile->default(compile)]
 [info] Resolving org.webjars.bower#d3;3.5.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33e6cc6a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27523ba9
 [debug] sbt-chain: module revision found in cache: org.webjars.bower#d3;3.5.17
 [debug] 	found org.webjars.bower#d3;3.5.17 in sbt-chain
 [debug] == resolving dependencies default#spark-lime$sources_2.11;1.0-SNAPSHOT->org.webjars.bower#d3;3.5.17 [compile->runtime]
@@ -12678,8 +12678,8 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.0!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.glassfish.jersey.core#jersey-client;2.22.2!jersey-client.jar
 [debug] 	[NOT REQUIRED] org.glassfish.jersey.core#jersey-client;2.22.2!jersey-client.jar(src)
-[debug] 	[NOT REQUIRED] javax.ws.rs#javax.ws.rs-api;2.0.1!javax.ws.rs-api.jar(src)
 [debug] 	[NOT REQUIRED] javax.ws.rs#javax.ws.rs-api;2.0.1!javax.ws.rs-api.jar
+[debug] 	[NOT REQUIRED] javax.ws.rs#javax.ws.rs-api;2.0.1!javax.ws.rs-api.jar(src)
 [debug] 	[NOT REQUIRED] org.glassfish.jersey.core#jersey-common;2.22.2!jersey-common.jar
 [debug] 	[NOT REQUIRED] org.glassfish.jersey.core#jersey-common;2.22.2!jersey-common.jar(src)
 [debug] 	[NOT REQUIRED] javax.annotation#javax.annotation-api;1.2!javax.annotation-api.jar(src)
@@ -12842,8 +12842,8 @@
 [debug] 	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.calcite#calcite-core;1.2.0-incubating!calcite-core.jar
 [debug] 	[NOT REQUIRED] org.apache.calcite#calcite-core;1.2.0-incubating!calcite-core.jar(src)
-[debug] 	[NOT REQUIRED] org.apache.calcite#calcite-linq4j;1.2.0-incubating!calcite-linq4j.jar
 [debug] 	[NOT REQUIRED] org.apache.calcite#calcite-linq4j;1.2.0-incubating!calcite-linq4j.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.calcite#calcite-linq4j;1.2.0-incubating!calcite-linq4j.jar
 [debug] 	[NOT REQUIRED] net.hydromatic#eigenbase-properties;1.1.5!eigenbase-properties.jar
 [debug] 	[NOT REQUIRED] net.hydromatic#eigenbase-properties;1.1.5!eigenbase-properties.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar
@@ -12908,7 +12908,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 10992ms :: artifacts dl 236ms
+[debug] :: resolution report :: resolve 8532ms :: artifacts dl 229ms
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT compile produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-compile.xml
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT runtime produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-runtime.xml
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT test produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-test.xml
@@ -12922,4 +12922,4 @@
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT docs produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-docs.xml
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT pom produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-pom.xml
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT scala-tool produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-scala-tool.xml
-[debug] 	resolve done (10992ms resolve - 236ms download)
+[debug] 	resolve done (8532ms resolve - 229ms download)

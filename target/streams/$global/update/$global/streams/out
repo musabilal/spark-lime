@@ -7,7 +7,7 @@
 [debug] == resolving dependencies for default#spark-lime_2.11;1.0-SNAPSHOT [compile]
 [debug] == resolving dependencies default#spark-lime_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f7ae7a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c1b1eb8
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -1865,7 +1865,7 @@
 [debug] == resolving dependencies org.apache.spark#spark-launcher_2.11;2.0.0->org.apache.spark#spark-tags_2.11;2.0.0 [compile->compile(*)]
 [debug] == resolving dependencies org.apache.spark#spark-tags_2.11;2.0.0->org.scalatest#scalatest_2.11;2.2.6 [compile->master(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@748134a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3da1b0f0
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.6
 [debug] 	found org.scalatest#scalatest_2.11;2.2.6 in sbt-chain
 [debug] == resolving dependencies org.apache.spark#spark-tags_2.11;2.0.0->org.scalatest#scalatest_2.11;2.2.6 [compile->compile(*)]
@@ -26181,7 +26181,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar
-[debug] :: resolution report :: resolve 11250ms :: artifacts dl 173ms
+[debug] :: resolution report :: resolve 10291ms :: artifacts dl 146ms
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT compile produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-compile.xml
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT runtime produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-runtime.xml
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT test produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-test.xml
@@ -26195,5 +26195,5 @@
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT docs produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-docs.xml
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT pom produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-pom.xml
 [debug] 	report for default#spark-lime_2.11;1.0-SNAPSHOT scala-tool produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime_2.11-scala-tool.xml
-[debug] 	resolve done (11250ms resolve - 173ms download)
+[debug] 	resolve done (10291ms resolve - 146ms download)
 [info] Done updating.

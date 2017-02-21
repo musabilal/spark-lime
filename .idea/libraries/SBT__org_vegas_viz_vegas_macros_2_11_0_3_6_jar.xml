@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.vegas-viz:vegas-macros_2.11:0.3.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.vegas-viz/vegas-macros_2.11/jars/vegas-macros_2.11-0.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.vegas-viz/vegas-macros_2.11/srcs/vegas-macros_2.11-0.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

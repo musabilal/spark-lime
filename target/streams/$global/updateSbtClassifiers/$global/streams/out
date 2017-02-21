@@ -10,7 +10,6 @@
 [debug] == resolving dependencies default#spark-lime$sbt_2.11;1.0-SNAPSHOT->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.8 {default=[default(compile)]}
-[debug] no default cache defined: set to /Users/musa.bilal/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.8
 [debug] 	found org.scala-sbt#sbt;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#sbt;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -90,6 +89,7 @@
 [debug] == resolving dependencies org.scala-sbt#classpath;0.13.8->org.scala-sbt#interface;0.13.8 [compile->default(compile)]
 [info] Resolving org.scala-sbt#interface;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#interface;0.13.8 {compile=[default(compile)]}
+[debug] no default cache defined: set to /Users/musa.bilal/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#interface;0.13.8
 [debug] 	found org.scala-sbt#interface;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#interface;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 891ms :: artifacts dl 39ms
+[debug] :: resolution report :: resolve 905ms :: artifacts dl 43ms
 [debug] 	report for default#spark-lime$sbt_2.11;1.0-SNAPSHOT default produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sbt_2.11-default.xml
-[debug] 	resolve done (891ms resolve - 39ms download)
+[debug] 	resolve done (905ms resolve - 43ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#spark-lime$sources_2.11;1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -1070,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 173ms :: artifacts dl 29ms
+[debug] :: resolution report :: resolve 155ms :: artifacts dl 33ms
 [debug] 	report for default#spark-lime$sources_2.11;1.0-SNAPSHOT default produced in /Users/musa.bilal/Desktop/Analytics_Engineering/lime/spark-lime/target/resolution-cache/reports/default-spark-lime$sources_2.11-default.xml
-[debug] 	resolve done (173ms resolve - 29ms download)
+[debug] 	resolve done (155ms resolve - 33ms download)
