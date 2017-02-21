@@ -149,6 +149,10 @@ object implicits {
 			  .select("groupedBuckets_a", "groupedBuckets_b", "distance")
 		}
 
+		def lime(): DataFrame = {
+
+		}
+
 	}
 
 
